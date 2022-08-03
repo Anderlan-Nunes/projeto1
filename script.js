@@ -25,7 +25,7 @@ function isLista(n, l){
 }
 
 
-
+funcao
 function adicionar(){
     if(isNumero(num.value) && isLista(num.value, ar)){
         
